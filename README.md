@@ -57,7 +57,11 @@ Download the latest version of the Bridge from the Releases section of this repo
 
 For full two-way communication, install the midiOS Ableton Remote Script:
 
-(coming soon)
+https://github.com/midiosapp/midios-remote-script
+
+Requires:
+- midiOS Remote Script v20
+- midiOS Bridge v21
 
 ---
 

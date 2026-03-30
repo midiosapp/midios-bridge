@@ -4,6 +4,16 @@ macOS bridge for midiOS. Enables real-time communication between iPhone and Able
 
 ---
 
+## Get midiOS
+
+Download the midiOS app for iPhone:
+
+https://apps.apple.com/us/app/midios/id6755208218
+
+midiOS is required to use the Bridge and Remote Script.
+
+---
+
 ## What is midiOS?
 
 midiOS is a gesture-driven performance instrument for iPhone.
